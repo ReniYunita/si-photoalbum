@@ -1,0 +1,1 @@
+<img src="layout/assets/images/poto.png">

@@ -1,0 +1,19 @@
+{
+    "name": "acer/utsweb_photo",
+    "description": "Program Latihan Pemograman Berbasis Web Lanjutan Prodi Sistem Informasi UIN Sumatera Utara Medan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Reni Yunita",
+            "email": "reniyunita045@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
